@@ -1,7 +1,7 @@
 ### **Linguistic Mathematics: A New Way to Understand Numbers and Operations**
 
 **Introduction**  
-I am developing a way of thinking about mathematics through the lens of language. Just as language has letters, sounds, and words that carry meaning, mathematics has digits, numbers, and quantities that represent real things in the world. The text below may change, as it is still a work in progress. Currently, only a small part has been described.
+I am developing a way of thinking about mathematics through the lens of language. Just as language has letters, sounds, and words that carry meaning, mathematics has digits, numbers, and quantities that represent real things in the world.
 
 ---
 
