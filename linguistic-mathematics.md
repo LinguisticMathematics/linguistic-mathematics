@@ -1,15 +1,15 @@
 ### **Linguistic Mathematics: A New Way to Understand Numbers and Operations**
 
 **Introduction**  
-I have developed a way of thinking about mathematics through the lens of language. Just as language has letters, sounds, and words that carry meaning, mathematics has digits, numbers, and quantities that represent real things in the world.
+I am developing a way of thinking about mathematics through the lens of language. Just as language has letters, sounds, and words that carry meaning, mathematics has digits, numbers, and quantities that represent real things in the world. The text below may change, as it is still a work in progress. Currently, only a small part has been described.
 
 - **Letter → Sound → Word** (sound + meaning)  
-  Example: The letter "I" → the sound /aɪ/ → the word "I" (which has both sound and personal meaning).
+  Example: The letter "I" → the sound /aɪ/ → the word "I" (which has both sound and meaning).
 
-- **Digit → Number → Quantity** (number + object/meaning)  
+- **Digit → Number → Quantity** (number + object)  
   Example: The digit "1" → the number 1 → the quantity "one" (one apple, one person, etc.).
 
-- **Zero (0)**: This is special. It represents the *absence of quantity*. It is not a regular quantity that can actively participate in actions.
+- **Zero (0)**: This is special. It represents the *absence of quantity*. It is not a regular quantity that can participate in actions.
 
 ---
 
@@ -29,18 +29,6 @@ Here, 5 and 3 are quantities, "+" is the action (addition), and 8 is the result.
 
 ---
 
-### **Properties of Actions**
-
-Not all actions behave the same way:
-
-- Addition and multiplication are symmetric:  
-  a + b = b + a  
-  a · b = b · a  
-
-- Subtraction and division are directional (order matters):  
-  a − b ≠ b − a (usually)  
-  a / b ≠ b / a (usually)
-
 **Every action has a reciprocal (inverse) pair**:
 - Addition (+) and Subtraction (−) cancel each other.
 - Multiplication (·) and Division (/) cancel each other.
@@ -51,30 +39,31 @@ Not all actions behave the same way:
 
 Just like complex sentences in language, actions can be combined:
 
+[(5 - 10) · 3]  
+
+However, every simple sentence must make sense, or, in mathematical terms, it cannot be equal to 0. 
+
 [(5 − 5) + 3]  
 
-This is like saying: "I saw a boy who..." — it feels incomplete or meaningless if not properly finished. In mathematics, we must ensure the full expression is well-formed and makes sense.
+This is like saying: "I saw a boy who." — it is meaningless.
 
 ---
 
 ### **Higher Operations: Powers, Factorials, and Roots**
 
-Powers, factorials, and roots are not *pure single actions*. They are notations for repeated actions or sets of actions.
+Powers, factorials, and roots are not actions, but rather *action notations* or *number notations*.
 
 - **Exponentiation (Power)**:  
   \( x^n = 1 \cdot x \) multiplied *n times*.  
   This definition works for positive powers and also helps unify negative powers:  
-  \( x^{-n} = 1 / x \) multiplied *n times* (repeated division).
+  \( x^{-n} = 1 / x \) multiplied *n times*.
 
 - **Factorial (n!)**:  
-  The product of all natural numbers from 1 to n (starting with 2). Under this strict view, 0! and 1! are meaningless or absurd because there is no repeated multiplication to perform.
+  If we define factorial as the product of all the natural numbers from 1 to n, then 0! and 1! are meaningless because there is no multiplication to be done. This is also logical when we consider what factorials are used for. Factorials count how many ways items can be arranged. When there is only one object, there is nothing to arrange because one object cannot be the first or last.
 
 - **Roots**:  
-  These are the inverse actions of powers.  
-  The *n*-th root of x is the inverse of raising to the positive power n.  
-  Roots for negative powers follow similarly.
-
-**Historical Note**: Exponentiation started with positive numbers. One can argue that negative numbers are a useful human convention — they do not exist as physical quantities in the same direct way. Therefore, the square root of a positive number is always taken to be the positive value.
+  The *n*-th root of x is the inverse of raising to the positive power n.
+  
 
 ---
 
