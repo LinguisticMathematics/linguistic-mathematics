@@ -29,7 +29,7 @@ For example, the English verb **help – helped – helped** was formerly conjug
 This understanding of tense and its historical development allows us to make the following observations:
 
 - Originally, the present and future were not distinguished grammatically and were expressed only lexically. This explains why present-tense verb forms can often refer to future events.
-- Future-tense forms developed later and were frequently created by analytical (periphrastic) means.
+- Future-tense forms developed later and were frequently created by analytical means.
 - It also explains why the subjunctive I and subjunctive II exist despite having only binary opposition: **would do** versus **would have done**.
 
 # Prepositions and Cases
