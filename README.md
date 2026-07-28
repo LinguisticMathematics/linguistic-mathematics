@@ -2,7 +2,7 @@
 
 I am developing a new approach to mathematics. The text may change, as it is still a work in progress. Currently, only a small part has been described.
 
-## Universal Linguistics
+## Universal Grammar
 
 Although I initially planned to use this one for my math thoughts only, I also decided to upload my linguistic work, which I have been working on since 2011. It is my attempt to unify languages by suggesting universal linguistic truths.
 
