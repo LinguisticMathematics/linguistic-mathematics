@@ -4,7 +4,7 @@ I am developing a new approach to mathematics. The text may change, as it is sti
 
 ## Universal Linguistics
 
-Although I initially planned to use this one for my math thoughts only, I also decided to upload my linguistic work, which I have been working on for 15 years. It is my attempt to unify languages by suggesting universal linguistic truths.
+Although I initially planned to use this one for my math thoughts only, I also decided to upload my linguistic work, which I have been working on since 2011. It is my attempt to unify languages by suggesting universal linguistic truths.
 
 ## Contact
 
