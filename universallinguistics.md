@@ -225,8 +225,8 @@ Not every language distinguishes these two categories.
 
 Examples in Russian:
 
-- написать **другу** — "to write **to a friend**" (dative case) — recipient
-- бояться **пауков** — "to fear **spiders**" (genitive case) — source of fear
+- написать **другу** (dative case) — "to write **to a friend**" — recipient
+- бояться **пауков** (genitive case) — "to fear **spiders**" — source of fear
 
 The everyday English expression *to be afraid of spiders* is very similar to the Russian expression. *of* likewise indicates the **source of fear**, corresponding semantically to the Russian genitive.
 
