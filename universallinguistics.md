@@ -109,7 +109,7 @@ In languages that do possess simple prepositions, these perform the same semanti
 - **Direction toward an endpoint**
 - **Direction away from a starting point**
 
-It is important to note that when a language has grammatical cases, one particular case often predominates within each semantic group of prepositions. This tendency can be observed clearly in nearly all of the following languages.
+It is important to note that when a language has grammatical cases, one particular case often predominates within each semantic group of prepositions. This tendency can be observed clearly in the following languages.
 
 ### Russian
 
