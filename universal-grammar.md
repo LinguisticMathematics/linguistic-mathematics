@@ -9,7 +9,6 @@ Examples:
 - **German:** `tue – tat`
 - **English:** `do – did`
 - **Spanish:** `hago – hice`
-- **Armenian:** `ունեմ – ունեցա`
 - **Italian:** `faccio – feci`
 - **Latin:** `scribo – scripsi`
 - **Old Russian:** `творю – творих`
